@@ -1,7 +1,7 @@
 # Plenum
 V 0.1
 ## Description
-An experimental grid editor that can recursively deterritorialize and convert a cell into a 7x7 grid, with the user being able to navigate through these potentially infinite layers. Was made to demonstrate a basic, constrained take on a post-structuralist, infinitely specific approach towards language.
+An experimental grid editor that can recursively deterritorialize and convert a cell into a 7x7 grid, with the user being able to navigate through these potentially infinite layers. Made to demonstrate a basic, constrained take on a post-structuralist, infinitely specific approach towards language.
 
 ## Statement
 Every instance of that which we perceive as the same harnesses difference. 
