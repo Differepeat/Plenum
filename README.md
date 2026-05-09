@@ -19,3 +19,8 @@ Find out more about the philosophy behind Plenum here: https://differepeat.subst
 1. Ability to save and load.
 2. Drawing inside each cell.
 3. A 3D build.   
+
+## Screenshots
+![Sample 1](sample%201.png)
+![Sample 1](sample%202.png)
+![Sample 1](sample%203.png)
